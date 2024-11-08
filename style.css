@@ -1,0 +1,23 @@
+.sun {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 100px;
+    z-index: 3;
+}
+.sand  {
+    background-color: burlywood;
+    height: 100px;
+    width: 800px; 
+    z-index: 2;
+}
+.water {
+    width: 800px;
+    height: 400px;
+    background-color: aquamarine;
+    z-index: 3;
+}
+.box {
+    display: flex;
+    margin: 10px;
+}
